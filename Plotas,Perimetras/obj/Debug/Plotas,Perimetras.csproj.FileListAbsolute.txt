@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\Plotas,Perimetras\bin\Debug\Plotas,Perimetras.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\Plotas,Perimetras\bin\Debug\Plotas,Perimetras.exe
+C:\Users\user\Desktop\C#\Totalusragas\Plotas,Perimetras\bin\Debug\Plotas,Perimetras.pdb
+C:\Users\user\Desktop\C#\Totalusragas\Plotas,Perimetras\obj\Debug\Plotas,Perimetras.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\Plotas,Perimetras\obj\Debug\Plotas,Perimetras.exe
+C:\Users\user\Desktop\C#\Totalusragas\Plotas,Perimetras\obj\Debug\Plotas,Perimetras.pdb
+C:\Users\user\Desktop\C#\Totalusragas\Plotas,Perimetras\obj\Debug\Plotas,Perimetras.csproj.AssemblyReference.cache
